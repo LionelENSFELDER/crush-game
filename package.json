@@ -1,0 +1,25 @@
+{
+  "name": "crush-game",
+  "version": "1.0.0",
+  "description": "Candy crush game clone.",
+  "main": "app.js",
+  "dependencies": {
+    "snowpack": "^3.0.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LionelENSFELDER/crush-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LionelENSFELDER/crush-game/issues"
+  },
+  "homepage": "https://github.com/LionelENSFELDER/crush-game#readme"
+}
